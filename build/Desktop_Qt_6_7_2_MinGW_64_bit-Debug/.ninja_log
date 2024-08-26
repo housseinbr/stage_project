@@ -1,0 +1,74 @@
+# ninja log v6
+22	134	7454574235728140	calculator_autogen/timestamp	1d4f05ad33709d45
+608	2194	7454572273625465	CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.obj	42d38507be69410e
+22	134	7454574235728140	calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+22	134	7454574235728140	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/timestamp	1d4f05ad33709d45
+22	134	7454574235728140	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+612	2230	7454572273660684	CMakeFiles/calculator.dir/main.cpp.obj	d51dbb406ab729b3
+134	1716	7454574236859531	CMakeFiles/calculator.dir/mainwindow.cpp.obj	c10dc49680b5bac0
+1716	1898	7454574252667791	calculator.exe	86ec647384d451ce
+26	147	7454575499550689	calculator_autogen/timestamp	1d4f05ad33709d45
+26	147	7454575499550689	calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+26	147	7454575499550689	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/timestamp	1d4f05ad33709d45
+26	147	7454575499550689	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+147	1876	7454575500767158	CMakeFiles/calculator.dir/mainwindow.cpp.obj	c10dc49680b5bac0
+1877	2084	7454575518058973	calculator.exe	86ec647384d451ce
+24	143	7454575874130342	calculator_autogen/timestamp	1d4f05ad33709d45
+24	143	7454575874130342	calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+24	143	7454575874130342	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/timestamp	1d4f05ad33709d45
+24	143	7454575874130342	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+144	1857	7454575875320669	CMakeFiles/calculator.dir/mainwindow.cpp.obj	c10dc49680b5bac0
+1857	2037	7454575892450541	calculator.exe	86ec647384d451ce
+28	150	7454575984866882	calculator_autogen/timestamp	1d4f05ad33709d45
+28	150	7454575984866882	calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+28	150	7454575984866882	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/timestamp	1d4f05ad33709d45
+28	150	7454575984866882	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+151	1871	7454575986088114	CMakeFiles/calculator.dir/mainwindow.cpp.obj	c10dc49680b5bac0
+1871	2065	7454576003292627	calculator.exe	86ec647384d451ce
+21	136	7454584446137050	calculator_autogen/timestamp	1d4f05ad33709d45
+21	136	7454584446137050	calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+21	136	7454584446137050	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/timestamp	1d4f05ad33709d45
+21	136	7454584446137050	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+136	1670	7454584447296034	CMakeFiles/calculator.dir/mainwindow.cpp.obj	c10dc49680b5bac0
+1671	1853	7454584462641061	calculator.exe	86ec647384d451ce
+20	127	7454586045695929	calculator_autogen/timestamp	1d4f05ad33709d45
+20	127	7454586045695929	calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+20	127	7454586045695929	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/timestamp	1d4f05ad33709d45
+20	127	7454586045695929	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+24	162	7454586607847509	calculator_autogen/timestamp	1d4f05ad33709d45
+24	162	7454586607847509	calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+24	162	7454586607847509	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/timestamp	1d4f05ad33709d45
+24	162	7454586607847509	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+163	1653	7454586609234213	CMakeFiles/calculator.dir/mainwindow.cpp.obj	c10dc49680b5bac0
+1653	1832	7454586624145149	calculator.exe	86ec647384d451ce
+11	132	7454601478179177	calculator_autogen/timestamp	1d4f05ad33709d45
+11	132	7454601478179177	calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+11	132	7454601478179177	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/timestamp	1d4f05ad33709d45
+11	132	7454601478179177	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+132	1775	7454601479386833	CMakeFiles/calculator.dir/mainwindow.cpp.obj	c10dc49680b5bac0
+1775	1966	7454601495814532	calculator.exe	86ec647384d451ce
+27	143	7454607593852866	calculator_autogen/timestamp	1d4f05ad33709d45
+27	143	7454607593852866	calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+27	143	7454607593852866	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/timestamp	1d4f05ad33709d45
+27	143	7454607593852866	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+144	1799	7454607595019898	CMakeFiles/calculator.dir/mainwindow.cpp.obj	c10dc49680b5bac0
+1799	1990	7454607611580011	calculator.exe	86ec647384d451ce
+28	560	7454609744296107	calculator_autogen/timestamp	1d4f05ad33709d45
+28	560	7454609744296107	calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+28	560	7454609744296107	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/timestamp	1d4f05ad33709d45
+28	560	7454609744296107	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+561	2101	7454609744974823	CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.obj	42d38507be69410e
+564	2144	7454609745004916	CMakeFiles/calculator.dir/main.cpp.obj	d51dbb406ab729b3
+55	191	7460122845750170	calculator_autogen/timestamp	1d4f05ad33709d45
+55	191	7460122845750170	calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+55	191	7460122845750170	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/timestamp	1d4f05ad33709d45
+55	191	7460122845750170	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+191	2141	7460122847114794	CMakeFiles/calculator.dir/mainwindow.cpp.obj	c10dc49680b5bac0
+25	510	7460123271339566	calculator_autogen/timestamp	1d4f05ad33709d45
+25	510	7460123271339566	calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+25	510	7460123271339566	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/timestamp	1d4f05ad33709d45
+25	510	7460123271339566	C:/Users/hbarb/Documents/2eme/Houssein Work/calculator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/calculator_autogen/mocs_compilation.cpp	1d4f05ad33709d45
+512	2173	7460123272014100	CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.obj	42d38507be69410e
+516	2256	7460123272058600	CMakeFiles/calculator.dir/main.cpp.obj	d51dbb406ab729b3
+520	2536	7460123272095412	CMakeFiles/calculator.dir/mainwindow.cpp.obj	c10dc49680b5bac0
+2536	2707	7460123292250271	calculator.exe	86ec647384d451ce
